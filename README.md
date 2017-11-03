@@ -1,0 +1,2 @@
+# hugogit
+Hugo git
